@@ -10,9 +10,8 @@
 * Collaborative project with Lipika Chatur and Urvi Thakurdesai at the University of Texas at Austin within the Galaxy Evolution Vertically Integrated Program (GEVIP) research group !
 * Implemented a gaussian mixture clustering algorithm over t-SNE dimensionality reduced photometric images of 1816 z = 6-8 galaxies from JWST CEERS
 
-# Presented Work at UT Austin's Undergraduate Research Forum 
-# (April, 2023)
+### Presented Work at UT Austin's Undergraduate Research Forum (April, 2023)
 
 <p align="center">
-<img width="500" height="800" src= "C:\Users\Marissa Perry\Documents\Courses\Spring 2023\GEVIP\tSNE_project\URF_poster\Spring.2023.Research.Poster.pdf" alt="Spring 2023 Research Poster.pdf">
+<img width="500" height="800" src= "C:/Users/Marissa Perry/Documents/Courses/Spring 2023/GEVIP/tSNE_project/URF_poster/Spring.2023.Research.Poster.pdf" alt="Spring 2023 Research Poster.pdf">
 </p>
