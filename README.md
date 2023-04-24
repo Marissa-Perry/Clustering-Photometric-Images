@@ -12,4 +12,4 @@
 
 ## Presented Work at UT Austin's Undergraduate Research Forum (April, 2023)
 <hr>
-![Spring 2023 Research Poster](https://user-images.githubusercontent.com/120825204/234096324-3511506f-4106-4a9c-8090-189e470ef8ec.png)
+![Spring 2023 Research Poster](Spring 2023 Research Poster.png)
