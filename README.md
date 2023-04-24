@@ -12,4 +12,7 @@
 
 ## Presented Work at UT Austin's Undergraduate Research Forum (April, 2023)
 <hr>
-![Spring 2023 Research Poster](Spring 2023 Research Poster.png)
+
+<p align="center">
+<img width="800" height="800" src= "Spring 2023 Research Poster.png">
+</p>
