@@ -11,6 +11,4 @@
 * Implemented a gaussian mixture clustering algorithm over t-SNE dimensionality reduced photometric images of 1816 z = 6-8 galaxies from JWST CEERS
 
 # Presented Work at UT Austin's Undergraduate Research Forum (April, 2023)
-<p align="center">
-  <img width="800" height="800" src="Spring 2023 Research Poster.pdf">
-</p>
+[Spring 2023 Research Poster.pdf](https://github.com/Marissa-Perry/Clustering-Photometric-Images/files/11313933/Spring.2023.Research.Poster.pdf)
