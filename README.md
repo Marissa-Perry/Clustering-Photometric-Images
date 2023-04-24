@@ -12,8 +12,7 @@
 
 # Presented Work at UT Austin's Undergraduate Research Forum 
 # (April, 2023)
-<hr>
+
 <p align="center">
-<img width="500" height="800" src= "https://github.com/Marissa-Perry/Clustering-Photometric-Images/files/11313706/Spring.2023.Research.Poster.pdf" alt="Spring 2023 Research Poster.pdf">
+<img width="500" height="800" src= "C:\Users\Marissa Perry\Documents\Courses\Spring 2023\GEVIP\tSNE_project\URF_poster\Spring.2023.Research.Poster.pdf" alt="Spring 2023 Research Poster.pdf">
 </p>
-[Spring 2023 Research Poster.pdf](https://github.com/Marissa-Perry/Clustering-Photometric-Images/files/11313726/Spring.2023.Research.Poster.pdf)
