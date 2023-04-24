@@ -1,7 +1,9 @@
 # Inspecting High-Redshift Galaxies from JWST CEERS Using a Gaussian Clustering Algorithm
 
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/120825204/234086692-e96aa802-f497-46ee-aeb4-74b7abbdfdcd.png">
+<img width="200" height="200" src= "https://user-images.githubusercontent.com/120825204/234086692-e96aa802-f497-46ee-aeb4-74b7abbdfdcd.png">
+</p>
+<p align="center">
 (https://sites.utexas.edu/vip/)
 </p>
 
@@ -12,5 +14,5 @@
 # (April, 2023)
 <hr>
 <p align="center">
-<img src= "https://github.com/Marissa-Perry/Clustering-Photometric-Images/files/11313652/Spring.2023.Research.Poster.pdf">
+<img width="300" height="300" src= "https://github.com/Marissa-Perry/Clustering-Photometric-Images/files/11313706/Spring.2023.Research.Poster.pdf">
 </p>
