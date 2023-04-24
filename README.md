@@ -14,5 +14,5 @@
 <hr>
 
 <p align="center">
-<img width="800" height="800" src= "Spring 2023 Research Poster.png">
+<img width="1000" height="800" src= "Spring 2023 Research Poster.png">
 </p>
