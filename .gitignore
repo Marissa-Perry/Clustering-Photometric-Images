@@ -1,2 +1,4 @@
 # ignore .ipynb_checkpoints folder
 .ipynb_checkpoints
+clustering_photometric_images_training.ipynb
+cropping_images.ipynb
