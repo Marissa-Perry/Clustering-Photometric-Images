@@ -1,7 +1,7 @@
 # Inspecting High-Redshift Galaxies from JWST CEERS Using a Clustering Algorithm
 
 <p align="center">
-<img width="180" height="200" src= "https://user-images.githubusercontent.com/120825204/234086692-e96aa802-f497-46ee-aeb4-74b7abbdfdcd.png">
+<img width="160" height="180" src= "https://user-images.githubusercontent.com/120825204/234086692-e96aa802-f497-46ee-aeb4-74b7abbdfdcd.png">
 </p>
 
 <p align="center">
