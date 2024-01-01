@@ -23,6 +23,6 @@
 ## Presented Work at UT Austin's Dept. of Astronomy Frank N. Bash Symposium (October, 2023)
 
 <p align="center">
-<embed src="Bashfest_Poster.png" width="800" height="600">
+<img width="800" height="600" src= "Bashfest_Poster.png">
 </p>
 
